@@ -1,0 +1,1 @@
+# AsteriskPattern.java
